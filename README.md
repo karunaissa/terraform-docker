@@ -25,3 +25,5 @@ To get started, run:
 
 ![Terraform apply](terraform-apply.png)
 
+## terraform destroy
+![terraform destroy](terraform-destroy.png)
