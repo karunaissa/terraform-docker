@@ -19,7 +19,7 @@ To get started, run:
 
 ##terraform plan
 
-![Terraform plan](terraform-paln.png)
+![Terraform plan](terrraform-plan.png)
 
 ##terraform apply
 
