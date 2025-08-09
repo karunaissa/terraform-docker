@@ -15,13 +15,13 @@ We have created three key files:
 To get started, run:
 
 ##terraform init
-![Terraform init]()
+![Terraform init](terraform-init.png)
 
 ##terraform plan
 
-![Terraform plan]()
+![Terraform plan](terraform-paln.png)
 
 ##terraform apply
 
-![Terraform apply]()
+![Terraform apply](terraform-apply.png)
 
